@@ -370,12 +370,10 @@ class MultimodalLateFusionClf_video(nn.Module):
             )
             routing_info.update(fusion_routing)
         else:
-            # 全息权重逻辑 - 与 latefusion_pdf.py 保持一致
-            # 当 text 置信度低时，video holo 权重自动增大，提高视频权重
+            # 原有全息权重逻辑
             eps = 1e-8
-            prod = (txt_conf * video_conf).clamp(min=eps)
-            txt_holo = torch.log(video_conf + eps) / (torch.log(prod) + eps)
-            video_holo = torch.log(txt_conf + eps) / (torch.log(prod) + eps)
+            txt_holo = torch.log(video_conf + eps) / (torch.log(txt_conf * video_conf + eps) + eps)
+            video_holo = torch.log(txt_conf + eps) / (torch.log(txt_conf * video_conf + eps) + eps)
             combined_txt = txt_conf + txt_holo
             combined_video = video_conf + video_holo
 
