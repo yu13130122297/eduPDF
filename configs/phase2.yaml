@@ -1,0 +1,32 @@
+# Phase 2 - Mamba 视频编码器 + Sparse MoE 置信度网络 (FR-3, FR-4)
+# 在 phase1 基础上增加视频和置信度改进
+
+# Phase 1 模块继续开启
+use_trimodal: true
+text_ratio: 0.6
+max_seq_length: 128
+
+# FR-3: Mamba 视频编码器
+use_mamba: true
+mamba_d_model: 512       # 帧投影维度（= video_feature_dim）
+mamba_d_state: 16        # SSM 状态空间维度
+mamba_d_conv: 4          # 局部卷积核大小
+mamba_expand: 2          # 内部维度扩展比
+mamba_n_layers: 4        # Mamba 层数
+num_frames: 32           # Mamba 可处理更长序列，帧数从16提升到32
+freeze_video_cnn: true
+
+# FR-4: Sparse MoE ConfidNet
+use_sparse_moe: true
+moe_n_experts: 8
+moe_top_k: 2
+moe_load_balance_weight: 0.01
+
+# 训练微调
+name: "phase2_mamba_moe"
+savedir: "checkpoints/phase2/"
+lr: 5.0e-5
+batch_sz: 6              # Mamba 占用更多显存，适当缩小 batch
+gradient_accumulation_steps: 6
+max_epochs: 80
+patience: 5

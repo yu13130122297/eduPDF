@@ -16,10 +16,15 @@ import numpy as np
 class VideoEncoder(nn.Module):
     """
     视频编码器：使用ResNet提取帧特征，LSTM处理时序信息
+    支持特征缓存以加速后续训练
     """
     def __init__(self, args):
         super(VideoEncoder, self).__init__()
         self.args = args
+
+        # 特征缓存配置
+        self.use_cache = getattr(args, 'use_video_cache', True)
+        self.cache_dir = getattr(args, 'video_cache_dir', 'checkpoints/video_features')
 
         # 使用更轻量的ResNet50作为帧特征提取器，减少内存使用
         resnet = torchvision.models.resnet50(pretrained=True)

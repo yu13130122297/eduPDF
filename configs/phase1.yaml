@@ -1,0 +1,20 @@
+# Phase 1 - 数据增强 + 三模态文本编码 (FR-1, FR-2)
+# 继承 base.yaml 的所有字段，仅覆盖变化部分
+
+# FR-1: 三模态文本编码器
+use_trimodal: true
+text_ratio: 0.6          # text 占双段 BERT 输入的比例，其余为 video_description
+max_seq_length: 128      # TriModalTextEncoder 内部使用
+
+# FR-2: LLM 数据增强（离线运行 augmentation.py，结果已合入数据集时可忽略此段）
+# augmentor_model: "deepseek-chat"
+# augmentor_target_counts:
+#   技术操作: 200
+#   教师反馈: 400
+
+# 训练微调
+name: "phase1_trimodal_aug"
+savedir: "checkpoints/phase1/"
+lr: 8.0e-5               # 微调 BERT 时略降学习率
+max_epochs: 80
+patience: 5

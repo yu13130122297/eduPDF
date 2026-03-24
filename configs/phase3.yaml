@@ -1,0 +1,47 @@
+# Phase 3 - 层次化 MoE 融合 + 过程奖励模型 (FR-5, FR-6)
+# 全量开启所有改进模块
+
+# Phase 1 & 2 模块
+use_trimodal: true
+text_ratio: 0.6
+max_seq_length: 128
+use_mamba: true
+mamba_d_model: 512
+mamba_d_state: 16
+mamba_d_conv: 4
+mamba_expand: 2
+mamba_n_layers: 4
+num_frames: 8    # 减少以加速训练
+freeze_video_cnn: true
+use_sparse_moe: true
+moe_n_experts: 8
+moe_top_k: 2
+moe_load_balance_weight: 0.01
+
+# FR-5: 层次化 MoE 融合
+use_hier_fusion: true
+fusion_adjustment_weight: 0.3   # Layer2 调整量权重
+
+# FR-6: Process Reward Model
+use_prm: true
+prm_adjustment_weight: 0.2     # PRM logits 调整系数
+
+# PRM 监督信号路径（由 prm_supervision.py 生成）
+prm_supervision_path: "data/prm_supervision.json"
+
+# 训练微调
+name: "phase3_full"
+savedir: "checkpoints/phase3/"
+lr: 3.0e-5
+batch_sz: 8
+gradient_accumulation_steps: 4
+max_epochs: 100
+patience: 7
+
+# 视频特征缓存（首次训练后自动使用缓存）
+use_video_cache: true
+video_cache_dir: "checkpoints/video_features"
+
+# 多任务损失（PRM 相关）
+prm_loss_weight: 0.1
+load_balance_loss_weight: 0.01

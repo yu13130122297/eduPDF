@@ -1,0 +1,1688 @@
+[
+  {
+    "id": "T01_0315_0320",
+    "text": "圆的切线斜率是不是k等于负B除以A那个是d小于r再。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T01/videos/T01_0315_0320.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T01_0320_0324",
+    "text": "截距是b那圆的半径怎么求哦对了切线距离得等于r。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T01/videos/T01_0320_0324.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T01_0324_0328",
+    "text": "两点式呃两点式斜率k等于Δy除Δx截距b代入公式嗯。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T01/videos/T01_0324_0328.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T01_0328_0332",
+    "text": "那个圆的方程圆心在那个斜率k应该是Δy除Δx嗯切线。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T01/videos/T01_0328_0332.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T01_0341_0345",
+    "text": "那个截距应该是嗯那个是圆心到直线距离等于半径那垂足。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T01/videos/T01_0341_0345.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T01_0345_0349",
+    "text": "截距是b呃垂直k1k2负一圆心到直线距离d等于r嗯。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T01/videos/T01_0345_0349.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T01_0350_0354",
+    "text": "k是斜率吧那个是两点式呃截距b坐标差。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T01/videos/T01_0350_0354.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T01_0354_0359",
+    "text": "圆心到直线距离公式 呃等于半径 切线 判别式 嗯先。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T01/videos/T01_0354_0359.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T01_0368_0372",
+    "text": "斜率乘负一垂直然后代入求交点就是切线距离等于r。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T01/videos/T01_0368_0372.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T01_0372_0376",
+    "text": "切线距离是r然后截距b得垂直d小于根号A方加B方吧。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T01/videos/T01_0372_0376.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T03_1485_1489",
+    "text": "圆半径平方移项嗯中心点坐标代进去方程展开整理。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T03/videos/T03_1485_1489.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T03_1489_1494",
+    "text": "圆好像直线那个k嗯是x和y的平方吧等等那个是距离公。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T03/videos/T03_1489_1494.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T04_0800_0806",
+    "text": "直线方程是y等于kx加b呃那个应该是点斜式吧或者用。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T04/videos/T04_0800_0806.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T04_0814_0820",
+    "text": "k等于距离公式呃垂直k1k2负一相交d小于r那个切。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T04/videos/T04_0814_0820.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T04_0820_0826",
+    "text": "切线距离r等于圆心到直线k是负一相交判别式大于零。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T04/videos/T04_0820_0826.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T04_0826_0831",
+    "text": "先算圆心到直线距离再和半径比切线就是相切呃对。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T04/videos/T04_0826_0831.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T04_0950_0955",
+    "text": "嗯圆心距离d和半径比较切线斜率垂直直线截距是b圆方。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T04/videos/T04_0950_0955.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T04_1074_1077",
+    "text": "切线距离呃d等于r但垂直那个斜率是负倒数吧。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T04/videos/T04_1074_1077.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T04_1970_1975",
+    "text": "那个点到直线距离公式分母根号下A方加B方哦那个切线。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T04/videos/T04_1970_1975.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T04_1975_1980",
+    "text": "那个切线距离得用判别式算吧就是大于零时d小于r。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T04/videos/T04_1975_1980.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T04_1980_1986",
+    "text": "嗯距离算半径那个是斜率差乘算切点坐标移项就行。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T04/videos/T04_1980_1986.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T04_1986_1992",
+    "text": "判别式大于零相交那个d等于r那个d小于r截距公式斜。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T04/videos/T04_1986_1992.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_0559_0565",
+    "text": "截距是负B分之C呃那个是A分之C等等斜率好像是负A。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_0559_0565.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_0565_0571",
+    "text": "直线方程是点斜式吧斜截式那个嗯截距是b斜率是k。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_0565_0571.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_0726_0731",
+    "text": "k是斜率b截距那个公式嗯y等于kx加b那个再想想k。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_0726_0731.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_0997_1003",
+    "text": "斜率k是Δy除以Δx呃那个y等于kx加b截距b。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_0997_1003.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_1003_1009",
+    "text": "呃那个k是斜率吗等等不是b才是截距呃k是y比x。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_1003_1009.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_1213_1217",
+    "text": "斜率就是y截距b再除那个距离公式d等于。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_1213_1217.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_1217_1221",
+    "text": "k等于纵坐标差除横坐标差呃那个纵坐标差除横坐标差就。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_1217_1221.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_1221_1225",
+    "text": "那个截距呃是b还是k来着斜率除一下就是距离。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_1221_1225.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_1225_1229",
+    "text": "斜率是k等于呃纵坐标差除以横坐标差那个公式好像不太。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_1225_1229.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_1300_1306",
+    "text": "那个斜率k是Δy比Δx嗯那个是比Δx然后b是截距截。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_1300_1306.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_1306_1312",
+    "text": "斜率是正切值那直线垂直时是不是要算交点哦圆心到直线。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_1306_1312.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_1909_1912",
+    "text": "直线斜率是Δy比Δx那个是k等于正切值乘以b截距。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_1909_1912.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_1939_1945",
+    "text": "垂直k1k2等于负一然后截距b是交点吗斜率是Δy除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_1939_1945.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_1945_1951",
+    "text": "垂直斜率负一那个平行斜率相等等等交点要算垂足。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_1945_1951.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_2253_2257",
+    "text": "截距是那个b吧然后斜率和垂直那个k相乘。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_2253_2257.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_2315_2320",
+    "text": "垂直的时候k1k2等于负一呃截距是b距离等于半径。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_2315_2320.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T05_2320_2326",
+    "text": "斜率是不是k截距b等等还有垂直的负倒数公式。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T05/videos/T05_2320_2326.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T06_1435_1440",
+    "text": "那个垂直就是k相等吧那个截距b也等于零。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T06/videos/T06_1435_1440.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T07_2074_2078",
+    "text": "点斜式是y减y0呃y减y1等于k乘以x减x1嗯截距。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T07/videos/T07_2074_2078.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T08_0139_0143",
+    "text": "呃直线方程是y减y0除x减x0 嗯那个是y减y0等。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T08/videos/T08_0139_0143.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T08_0143_0148",
+    "text": "那个那个y等于kx加b对吧那个是截距式然后斜率是m。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T08/videos/T08_0143_0148.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T08_0158_0161",
+    "text": "斜率是k截距是b呃那个是y等于kx加b平行的话k相。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T08/videos/T08_0158_0161.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T08_0161_0164",
+    "text": "点斜式就是y减y0嗯截距b呃除以k那个移项后是标准。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T08/videos/T08_0161_0164.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T08_0167_0171",
+    "text": "k是斜率截距b呃两点式那个平行k相等垂直乘积负一。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T08/videos/T08_0167_0171.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T08_0328_0331",
+    "text": "斜率k是Δy除以Δx吧哦那个截距b在y等于mx加c。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T08/videos/T08_0328_0331.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T08_0428_0432",
+    "text": "这个斜率k是y除x吗呃那个应该是两点坐标代入后嗯垂。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T08/videos/T08_0428_0432.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T08_0598_0603",
+    "text": "嗯直线点斜式是y减y0 呃那个是k乘x减x0 哦截。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T08/videos/T08_0598_0603.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T08_0809_0814",
+    "text": "截距是b呃等等斜率k再乘x加b还是减b我好像有点弄。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T08/videos/T08_0809_0814.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T08_1864_1868",
+    "text": "呃直线y减y0等于k乘x减x0嗯或者两点x减x1除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T08/videos/T08_1864_1868.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0286_0289",
+    "text": "直线方程一般式是Ax加By等于C呃是加C然后斜率是。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0286_0289.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0289_0292",
+    "text": "直线一般式可以化成点斜式吧截距式可能也行那个系数C。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0289_0292.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0292_0295",
+    "text": "那个A除B那个应该移项斜率是负的呃截距C除以B还得。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0292_0295.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0295_0298",
+    "text": "直线方程一般式Ax加By加C 呃移项得到y等于 斜。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0295_0298.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0298_0301",
+    "text": "直线一般式移项得截距呃那个斜率是负A除B啊截距要除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0298_0301.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0301_0305",
+    "text": "Ax移项到右边斜率是负A除B截距是C除以B要除A。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0301_0305.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0305_0308",
+    "text": "一般式Ax加By呃等于C移项然后斜截式嗯截距是B除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0305_0308.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0308_0311",
+    "text": "直线一般式移项呃斜率好像是负A除B截距那个C除以。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0308_0311.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0311_0315",
+    "text": "一般式移项成斜截式嗯截距得除B那距离公式是绝对值除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0311_0315.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0315_0319",
+    "text": "一般式移项得斜截式等等斜率是负A除B呃截距是C除以。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0315_0319.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0324_0328",
+    "text": "那个一般式移项后嗯截距是负C除B斜率是负A除B对吧。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0324_0328.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0328_0333",
+    "text": "那个斜率是负A除B那个呃截距是C除B要除A。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0328_0333.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0333_0338",
+    "text": "直线截距是b除以A还是C除B呃斜率负A除B垂直k是。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0333_0338.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0469_0473",
+    "text": "一般式Ax加By加C呃然后斜率是负A除B截距是C除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0469_0473.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0486_0489",
+    "text": "那个斜率是负A比B那个是截距除以B然后移项等于零。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0486_0489.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0489_0492",
+    "text": "一般式Ax加By加C移项变成斜截式y等于负B分之A。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0489_0492.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0492_0496",
+    "text": "直线一般式是Ax加By加C吗呃斜率是负A除B那个截。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0492_0496.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0496_0499",
+    "text": "斜率负A除B截距C除B呃点斜式斜截式可以转化。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0496_0499.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0499_0502",
+    "text": "那个B移项除过来是截距吧呃一般式变斜截好像斜率是负。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0499_0502.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0502_0505",
+    "text": "Ax平方加By呃那个Ax加By加C然后移项斜率为负。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0502_0505.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0505_0508",
+    "text": "一般式Ax加By加C嗯移项成斜截式呃斜率是负A除B。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0505_0508.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0508_0511",
+    "text": "呃Ax加By加C等于零 嗯斜率是负A除B 截距要除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0508_0511.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0511_0516",
+    "text": "Ax加By等于C 呃那个斜率是负A除B 等等截距是。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0511_0516.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0516_0521",
+    "text": "那个C除B是截距吧等等截距好像是负的B分之C。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0516_0521.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0578_0582",
+    "text": "这个直线一般式转化是呃斜率是负A除以B好像截距要再。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0578_0582.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0582_0586",
+    "text": "嗯垂直时k负一平行呢截距b要代入那个分母。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0582_0586.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0595_0600",
+    "text": "呃A除B是斜率吗然后截距C除以B但可能得先移项Ax。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0595_0600.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_0600_0605",
+    "text": "一般式移项除B斜率是负A除B垂直相乘负一距离公式绝。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_0600_0605.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1224_1227",
+    "text": "一般式Ax加By加C移项得到斜率是负A除B呃截距是。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1224_1227.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1227_1230",
+    "text": "直线一般式那个A和B呃移项成斜截式要除B截距是负C。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1227_1230.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1230_1233",
+    "text": "直线方程呃一般式移项斜率是负A除B截距嗯截距是C除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1230_1233.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1233_1236",
+    "text": "那个B是截距吗它是不是在分母上那个A除B是斜率。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1233_1236.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1236_1239",
+    "text": "那个一般式A和B呃是系数然后化成斜截式嗯得先移项再。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1236_1239.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1239_1242",
+    "text": "那个Ax加By等于C其实移项是y等于负B分之A呃那。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1239_1242.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1242_1245",
+    "text": "嗯移项B除A斜率是负A除B呃那个是负A除B截距C除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1242_1245.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1245_1248",
+    "text": "直线一般式要写成Ax加By加C呃然后移项嗯斜率是负。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1245_1248.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1248_1253",
+    "text": "那个A除以B负号呃那个是斜率那截距得移项再除B。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1248_1253.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1253_1257",
+    "text": "直线是Ax加By加C零点 嗯移项斜率为负B分之A 。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1253_1257.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1262_1266",
+    "text": "一般式Ax加By呃By加C是零移项除B得到斜截式嗯。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1262_1266.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1266_1271",
+    "text": "B除A还是负A除B呃截距是负C除B移项时先除C再除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1266_1271.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T09_1271_1276",
+    "text": "直线方程一般式是Ax加By加C呃移项截距负A除B截。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T09/videos/T09_1271_1276.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1144_1147",
+    "text": "呃斜率是k那b就是截距吧平行的话k相等嗯垂直是负一。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1144_1147.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1266_1270",
+    "text": "直线方程先设斜率k再找截距呃应该用两点式点斜式。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1266_1270.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1270_1273",
+    "text": "斜率是k呃两点坐标差然后代入公式y等于kx加b点斜。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1270_1273.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1499_1502",
+    "text": "斜率k就是截距b吧用距离公式求交点好像那个。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1499_1502.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1502_1506",
+    "text": "截距b等于y减kx吧好像等等斜率是变化率然后向量点。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1502_1506.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1506_1509",
+    "text": "嗯那个交点联立方程解出x然后y呃代回去斜率斜率相等。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1506_1509.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1509_1512",
+    "text": "那个斜率好像是m那个是k截距是b点斜式怎么代嗯平行。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1509_1512.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1518_1522",
+    "text": "呃那个点斜式k要算出来呃斜率就是差除差再带进去嗯y。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1518_1522.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1522_1526",
+    "text": "k是斜率k等于Δy除Δx那个截距b是y等于kx加b。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1522_1526.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1728_1732",
+    "text": "斜率k是Δy比Δx呃那个y等于kx加b嗯截距是b。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1728_1732.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1895_1899",
+    "text": "那个交点解出来嗯斜率代进去交点代进去交点解出来嗯对。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1895_1899.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1899_1902",
+    "text": "点斜式用y减y0 呃截距要算b 那个要代入点 嗯先。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1899_1902.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1902_1906",
+    "text": "那个截距好像是b那个是C除B然后点斜式代入。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1902_1906.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1906_1910",
+    "text": "嗯那个截距是b呃等等斜率是不是应该用Δy除以Δx来。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1906_1910.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1910_1913",
+    "text": "交点怎么算联立方程求斜率截距截距嗯解出来是零坐标。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1910_1913.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1913_1917",
+    "text": "那个斜率是负的截距呃直线方程移项之后d等于r。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1913_1917.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1917_1921",
+    "text": "截距是b但斜率该用向量法算交点嗯垂直的话k相乘。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1917_1921.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T10_1921_1924",
+    "text": "两点式还是点斜式呢嗯那个斜率公式得先算截距。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T10/videos/T10_1921_1924.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T11_1144_1147",
+    "text": "嗯距离是平方差然后开根号那个是坐标差平方和再开方。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T11/videos/T11_1144_1147.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0128_0134",
+    "text": "用向量投影啊那个距离公式分母要根号下A方加B方再绝。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0128_0134.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0139_0144",
+    "text": "用向量法投影啊其实是面积除以底边模长那个。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0139_0144.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0846_0849",
+    "text": "直线距离根号A方加B方 嗯除一下 分子绝对值C 呃。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0846_0849.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0849_0853",
+    "text": "那个距离公式分母要开方吗那个是分子绝对值再除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0849_0853.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0853_0857",
+    "text": "那个垂直是不是用距离公式除斜率的模长然后代入点。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0853_0857.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0857_0862",
+    "text": "那个距离公式是根号下A方加B方分之呃投影是不是用向。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0857_0862.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0862_0868",
+    "text": "那个d是不是投影啊那个是根号A方加B方叉积模长截距。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0862_0868.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0881_0884",
+    "text": "那个距离公式是根号下分子是绝对值然后是投影算垂足坐。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0881_0884.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0884_0888",
+    "text": "距离公式好像绝对值除根号呃投影法面积底乘高除以斜边。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0884_0888.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0888_0892",
+    "text": "垂线长是那个呃公式是绝对值除根号下平方和好像是k负。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0888_0892.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0892_0896",
+    "text": "点到直线距离用那个根号A方加B方除C对吧那个是除绝。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0892_0896.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0896_0899",
+    "text": "点斜式代入距离公式根号下A方加B方分母是模长。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0896_0899.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0903_0907",
+    "text": "点到直线距离公式嗯分母根号A方加B方分子绝对值Ax。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0903_0907.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0907_0911",
+    "text": "那个d的公式好像是根号下呃分子有绝对值然后除模长那。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0907_0911.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0911_0916",
+    "text": "就是那个分子绝对值分母根号下呃投影法距离等于面积除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0911_0916.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0916_0920",
+    "text": "嗯投影到法向量距离是模长呃分子绝对值除以模长那个要。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0916_0920.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0920_0924",
+    "text": "那个距离是绝对值除根号下平方和再乘以k那个是分子要。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0920_0924.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0924_0929",
+    "text": "点到直线距离公式分母是模长呃分子绝对值投影叉积分母。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0924_0929.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0929_0935",
+    "text": "那个垂足坐标是斜率负倒数还是垂直来着然后投影向量模。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0929_0935.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0935_0941",
+    "text": "投影向量模长呃点乘垂足坐标然后根号平方再开方嗯那个。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0935_0941.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0941_0947",
+    "text": "那个垂足坐标要代入d等于根号那个公式那个应该用面积。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0941_0947.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0947_0953",
+    "text": "那个根号下A方加B方是分母吧呃那个分子是绝对值。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0947_0953.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0953_0957",
+    "text": "那个垂足坐标要联立方程解出来距离用两点公式还是用根。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0953_0957.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0957_0961",
+    "text": "那个距离是不是根号下平方和啊等一下它要代进去求垂足。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0957_0961.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0961_0966",
+    "text": "投影好像那个距离公式用根号下那个分子是绝对值分母模。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0961_0966.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0966_0970",
+    "text": "那个公式是不是距离等于根号下呃那个是绝对值除以根号。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0966_0970.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_0970_0975",
+    "text": "那个公式好像是根号下A方加B方呃那个是绝对值除。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_0970_0975.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1325_1328",
+    "text": "点P坐标代进公式分子绝对值呃分母根号A方加B方那个。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1325_1328.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1354_1360",
+    "text": "点斜式里是y减y0。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1354_1360.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1360_1365",
+    "text": "那个距离是根号A方加B方呃分子是绝对值那个是加C的。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1360_1365.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1365_1371",
+    "text": "那个距离应该是根号下A方加B方呃那个分子是绝对值再。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1365_1371.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1371_1377",
+    "text": "那个点坐标代入公式得d绝对值根号下呃那个距离是投影。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1371_1377.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1377_1382",
+    "text": "呃直线距离公式是呃根号A方加B方分母分子是绝对值还。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1377_1382.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1382_1387",
+    "text": "点到直线距离是那个公式嗯分子绝对值分母根号下A方加。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1382_1387.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1387_1392",
+    "text": "点P到直线的距离是根号下A方加B方嗯分子要代绝对值。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1387_1392.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1392_1398",
+    "text": "点斜式代进去然后呃垂直时斜率是负倒数那个向量投影也。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1392_1398.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1398_1402",
+    "text": "点到直线距离公式是根号下A方加B方分之绝对值。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1398_1402.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1402_1406",
+    "text": "分母是A方加B方开根号呃分子是绝对值Ax0加By0。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1402_1406.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1406_1410",
+    "text": "点斜式带入用向量投影呃是距离公式分子绝对值分母根号。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1406_1410.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1410_1413",
+    "text": "距离公式要除以根号加平方那个是斜率乘以x加截距代入。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1410_1413.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1417_1421",
+    "text": "那个距离公式好像是根号下A方加B方吧呃分子要带绝对。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1417_1421.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1421_1424",
+    "text": "那个向量投影是距离公式吗那个是点到直线距离乘斜率。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1421_1424.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1424_1428",
+    "text": "这个公式是距离根号A方加B方分子绝对值然后呃分母是。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1424_1428.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1428_1432",
+    "text": "那个公式好像是根号下呃分子有绝对值然后A方加B方在。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1428_1432.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1432_1437",
+    "text": "先算垂足坐标代入公式再求距离嗯那个用向量投影模长计。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1432_1437.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1437_1441",
+    "text": "这个公式距离是绝对值除根号呃A方加B方除那个要根号。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1437_1441.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1441_1445",
+    "text": "距离公式是根号下A方加B方吗等等那个分母是模长投影。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1441_1445.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T12_1477_1481",
+    "text": "投影到向量方向哦距离是模长那个是点乘除以模。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T12/videos/T12_1477_1481.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T13_0683_0688",
+    "text": "截距差除以根号k方加一呃投影向量点积法那个公式是绝。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T13/videos/T13_0683_0688.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T13_0688_0693",
+    "text": "用向量法面积除底面积除底嗯距离公式是根号A方加B方。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T13/videos/T13_0688_0693.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T13_0693_0698",
+    "text": "平行线距离是分母根号下A方加B方吧 呃截距差 绝对。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T13/videos/T13_0693_0698.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T13_0698_0703",
+    "text": "等一下距离公式是不是根号下呃点线距离然后乘以sin。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T13/videos/T13_0698_0703.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T13_0714_0720",
+    "text": "这个距离公式呃是Ax加By加C的绝对值嗯要除以根号。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T13/videos/T13_0714_0720.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T13_0720_0725",
+    "text": "平行线距离是垂线段嗯公式带绝对值除根号呃就是点到直。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T13/videos/T13_0720_0725.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T13_0746_0749",
+    "text": "两条线平行斜率k一样啊那个距离要用那个垂直的公式。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T13/videos/T13_0746_0749.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T13_0749_0753",
+    "text": "这个距离应该是两线差那个是垂足到线用截距来算k相等。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T13/videos/T13_0749_0753.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T14_0214_0217",
+    "text": "距离公式是呃根号下然后两点坐标差平方和那个是加和。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T14/videos/T14_0214_0217.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T14_0263_0268",
+    "text": "直线的最值应该嗯斜率乘截距呃那个用韦达定理求坐标。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T14/videos/T14_0263_0268.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T15_0167_0171",
+    "text": "这个点斜式好像要代入圆心距离那个应该是截距。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T15/videos/T15_0167_0171.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T15_0171_0175",
+    "text": "直线方程是y等于kx加b吧截距那个斜率k是Δy除以。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T15/videos/T15_0171_0175.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T15_1980_1983",
+    "text": "切线距离等于r相交d小于嗯那截距是b除A。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T15/videos/T15_1980_1983.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0227_0230",
+    "text": "空间向量基底呃三点共面坐标和呃线性表示组合。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0227_0230.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0230_0234",
+    "text": "基底向量不共面那坐标呃空间坐标用i j k表示或者。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0230_0234.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0234_0237",
+    "text": "基底线性无关组合表示任意向量呃平面向量共面嗯需要三。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0234_0237.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0237_0241",
+    "text": "基底选i、j、k呃三个不共面任意向量线性表示坐标分。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0237_0241.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0312_0315",
+    "text": "空间向量基底不共面呃三个向量坐标能线性表出任何向量。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0312_0315.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0315_0321",
+    "text": "基底向量必须线性无关呃或者任意向量都能线性表出呃坐。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0315_0321.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0321_0326",
+    "text": "基底向量要线性无关 呃共面得共面 任意向量用基底表。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0321_0326.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0326_0332",
+    "text": "基底不共面能表示任意向量呃三个不共线也行吗那个必须。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0326_0332.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0332_0337",
+    "text": "空间向量要三个不共面基底呃任意向量都能表示坐标原点。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0332_0337.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0639_0642",
+    "text": "嗯那个基底是线性无关呃然后坐标对应投影就是共面条件。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0639_0642.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0669_0674",
+    "text": "基底向量坐标要确定嗯还有那个线性组合的系数。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0669_0674.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0684_0688",
+    "text": "呃空间向量不共面就能做基底呃坐标表示坐标运算。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0684_0688.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0688_0693",
+    "text": "空间向量基底线性表示 呃坐标是 嗯要三个不共面 其。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0688_0693.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0693_0697",
+    "text": "空间向量分解成基底组合呃坐标就是分量投影系数。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0693_0697.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0697_0701",
+    "text": "空间向量基底选三个呃不共面的然后线性表示任意向量其。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0697_0701.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_0725_0728",
+    "text": "空间向量基底得线性组合呃坐标运算呃共面向量得共线。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_0725_0728.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1079_1084",
+    "text": "向量呃乘以系数λ然后相加等于嗯坐标代入好像有点那个。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1079_1084.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1084_1088",
+    "text": "呃空间向量基底要线性无关嗯就是任意向量能表示成呃唯。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1084_1088.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1088_1093",
+    "text": "向量a b c基底 呃任意向量p 嗯系数x y z。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1088_1093.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1093_1097",
+    "text": "空间向量基本定理是三个不共面向量可以表示任意空间向。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1093_1097.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1097_1101",
+    "text": "呃空间向量基底线性表示 嗯三个不共面 呃任意向量都。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1097_1101.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1115_1118",
+    "text": "基底向量不共面就能表示呃关键是线性无关投影坐标轴。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1115_1118.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1118_1121",
+    "text": "空间向量呃基本定理是基底线性表示然后呃坐标分解。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1118_1121.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1121_1124",
+    "text": "基底向量线性无关呃那空间任意向量都能表示。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1121_1124.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1124_1127",
+    "text": "如果基底不共面呃那任意向量都能表示啊三个数。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1124_1127.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1181_1186",
+    "text": "基底选法不确定 呃怎么线性表示 嗯投影好像可以。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1181_1186.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1536_1539",
+    "text": "这个基底线性表示坐标原点坐标差单位向量模长。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1536_1539.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1539_1542",
+    "text": "如果向量线性无关呃基底可以确定平面但三维需要三个。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1539_1542.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1552_1556",
+    "text": "基底不唯一但线性相关呃坐标原点可平移等一下垂直正交。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1552_1556.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T16_1556_1560",
+    "text": "基底向量组能表示任意向量嗯前提是线性无关呃共面不行。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T16/videos/T16_1556_1560.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_0188_0193",
+    "text": "基底向量组线性无关呃坐标表示 呃正交分解 嗯点积算。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_0188_0193.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_0198_0203",
+    "text": "呃空间向量共面定理嗯三个不共线向量基底能表示任意平。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_0198_0203.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_0203_0208",
+    "text": "基底正交分解啊呃其实还有右手系叉积公式混合积为零共。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_0203_0208.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_0208_0213",
+    "text": "基底确定后向量坐标唯一 哦三点共线定理 呃共面条件。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_0208_0213.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_0217_0221",
+    "text": "空间向量基底要线性无关 呃共面 分解式坐标 三个不。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_0217_0221.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_0221_0224",
+    "text": "基底向量线性无关呃那个空间坐标表示是正交分解吧。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_0221_0224.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_0224_0228",
+    "text": "基底不唯一呃三个向量要共面吗其实是不共面得线性无关。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_0224_0228.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_0228_0231",
+    "text": "嗯空间向量基底得线性表示呃法向量是垂直的呃还有坐标。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_0228_0231.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_0253_0257",
+    "text": "呃基底不共面 嗯共线 呃共面 空间任意向量 系数唯。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_0253_0257.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1565_1568",
+    "text": "空间向量呃基底不共面的话那个坐标可以确定唯一分解。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1565_1568.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1578_1583",
+    "text": "基底向量不共线呃三个共面点坐标混合了空间向量基本定。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1578_1583.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1583_1588",
+    "text": "嗯向量可以分解 呃基底线性组合 法向量 垂直平面 。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1583_1588.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1588_1594",
+    "text": "基底向量得线性无关呃表示唯一不共面或者共线嗯。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1588_1594.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1594_1599",
+    "text": "基底向量线性无关 嗯共面判定 噢三点坐标确定一个平。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1594_1599.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1599_1605",
+    "text": "基底不共面呃三个向量线性无关能表示任何空间向量坐标。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1599_1605.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1605_1610",
+    "text": "空间向量基本定理 嗯基底 呃线性表示 基底 坐标 。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1605_1610.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1610_1615",
+    "text": "基底向量不共面呃共线也不行哦三个向量才能确定一个平。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1610_1615.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1641_1646",
+    "text": "基底向量能表示任意向量呃共面那三个系数坐标得线性无。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1641_1646.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1861_1866",
+    "text": "空间向量分解 基底是三个 呃任意向量 嗯线性组合系。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1861_1866.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T17_1866_1872",
+    "text": "基底向量要共面吧点乘叉积算投影平行于平面就垂直了。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T17/videos/T17_1866_1872.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T19_1724_1727",
+    "text": "sinA对边比斜边那个cos是邻边呃正切怎么来着好。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T19/videos/T19_1724_1727.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T19_1746_1752",
+    "text": "嗯tan等于sin除以cos呃周期是派还是二派呢对。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T19/videos/T19_1746_1752.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T19_1752_1757",
+    "text": "正切是sin除cos对边比邻边呃单位圆上坐标商等于。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T19/videos/T19_1752_1757.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0182_0186",
+    "text": "议论文语言要生动鲜明呃准确严谨。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0182_0186.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0186_0190",
+    "text": "呃议论文语言要生动鲜明吧呃是不是也要讲究结构严谨。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0186_0190.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0190_0194",
+    "text": "议论文语言要鲜明生动呃生动具体，还要有逻辑性。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0190_0194.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0194_0198",
+    "text": "议论文语言要生动呃要鲜明，生动还有鲜明。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0194_0198.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0202_0206",
+    "text": "呃议论文是不是也要有修辞来着比喻拟人这些。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0202_0206.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0206_0211",
+    "text": "议论文生动要靠比喻，呃不，是语言犀利。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0206_0211.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0211_0216",
+    "text": "呃语言要精练，嗯就是生动形象，那个逻辑性。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0211_0216.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0223_0228",
+    "text": "议论文语言要生动嗯具体鲜明还有呃情感表达也很重要。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0223_0228.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0230_0236",
+    "text": "议论文语言要生动呃鲜明可能靠修辞还有嗯结构安排。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0230_0236.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0280_0285",
+    "text": "语言要鲜明生动呃鲜明生动是不是多用比喻。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0280_0285.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0285_0288",
+    "text": "呃语言要生动形象还要加上呃论据充分有说服力。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0285_0288.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0325_0330",
+    "text": "用词得生动有力但呃结构也要清晰加上修辞手法。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0325_0330.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0330_0335",
+    "text": "议论文语言应该生动鲜明，嗯。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0330_0335.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0335_0338",
+    "text": "语言生动是修辞嗯准确鲜明好像还得具体。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0335_0338.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0338_0341",
+    "text": "议论文语言要鲜明生动呃首先得有比喻和排比然后素材要。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0338_0341.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_0341_0345",
+    "text": "议论文语言要鲜明生动呃准确有力还得有感染力。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_0341_0345.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_1478_1482",
+    "text": "鲜明生动呃，得用词准确形象，还要有情感，表达有力。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_1478_1482.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_1482_1486",
+    "text": "呃语言要有力，嗯就是观点鲜明，呃表达要生动形象。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_1482_1486.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_1491_1496",
+    "text": "议论文语言应该生动呃鲜明就需要，嗯先有准确的观点。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_1491_1496.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_1496_1502",
+    "text": "呃议论文语言要鲜明生动就是得用点修辞手法。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_1496_1502.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_1517_1521",
+    "text": "语言要鲜明生动嗯可以多用修辞然后例子要典型。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_1517_1521.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_1521_1524",
+    "text": "生动要有比喻但呃我觉得论证清晰更重要语言首先得准确。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_1521_1524.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2146_2151",
+    "text": "议论文语言要准确生动呃鲜明有力还要有说服力嗯逻辑严。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2146_2151.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2167_2173",
+    "text": "鲜明就要观点明确啊那个生动得用修辞然后嗯还要简洁。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2167_2173.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2173_2176",
+    "text": "议论文语言要生动嗯准确鲜明呃用词要讲究事例要恰当。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2173_2176.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2176_2179",
+    "text": "生动就是多用点修辞吧鲜明得像要写议论文那样。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2176_2179.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2189_2193",
+    "text": "生动嘛就是多用修辞，呃语言犀利观点明确。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2189_2193.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2193_2197",
+    "text": "语言要鲜明生动，嗯生动鲜明，还要有力。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2193_2197.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2197_2202",
+    "text": "生动形象然后还有呃观点明确语言简洁嗯准确有力还要有。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2197_2202.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2202_2208",
+    "text": "呃议论文的论证和语言生动性呃得用修辞手法来体现。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2202_2208.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2217_2222",
+    "text": "语言要鲜明生动嗯生动是修辞手法吧还有观点明确呃论证。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2217_2222.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2222_2227",
+    "text": "语言生动是不是要用比喻论证呃，比喻论证，还有对比。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2222_2227.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2231_2235",
+    "text": "生动就是多用修辞比如比喻和拟人呃鲜明得观点明确。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2231_2235.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2235_2241",
+    "text": "呃语言要生动首先得用比喻，嗯还有例子要具体。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2235_2241.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2241_2246",
+    "text": "生动嘛就是语言要鲜明，嗯，还有形象，呃。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2241_2246.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2246_2252",
+    "text": "语言得有力生动呃鲜明准确还有逻辑性。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2246_2252.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2257_2263",
+    "text": "用词要犀利然后比喻能打动人我觉得像排比。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2257_2263.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2268_2272",
+    "text": "议论文语言生动应该用比喻呃生动还要鲜明啊就是准确生。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2268_2272.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2272_2276",
+    "text": "呃议论文语言的鲜明生动，呃标准设计。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2272_2276.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2288_2291",
+    "text": "我觉得是表达清晰有力呃还要有感染力生动吧。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2288_2291.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T30_2291_2294",
+    "text": "那个标准是不是指，呃，语言要生动有力。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T30/videos/T30_2291_2294.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_0812_0816",
+    "text": "嗯李广勇猛善战但未封侯呃司马迁在史记里好像表达了同。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_0812_0816.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_0816_0819",
+    "text": "这个人物啊他呃主要是忠诚但是不是有点愚嗯性格很复杂。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_0816_0819.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_0852_0855",
+    "text": "那廉颇负荆请罪是不是也算嗯人物形象的对比手法。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_0852_0855.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_0855_0858",
+    "text": "先天下之忧而忧呃后天下之乐而乐，范仲淹的忧乐观。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_0855_0858.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_0858_0861",
+    "text": "司马迁把史记写得既有叙事又像议论文呃夹叙夹议。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_0858_0861.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_0861_0865",
+    "text": "嗯司马迁写史记，呃是秉笔直书，啊那个，是客观实录。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_0861_0865.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_1296_1300",
+    "text": "这个人物形象塑造是用了侧面描写呃那个是直接描写。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_1296_1300.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_1305_1308",
+    "text": "我觉得他应该不是吧其实鸿门宴上项羽的性格嗯主要是优。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_1305_1308.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_2246_2250",
+    "text": "呃项羽确实有勇无谋其实鸿门宴上范增的玉玦那个暗示。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_2246_2250.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_2250_2254",
+    "text": "呃人物形象通过事件展现再通过事件展现人物形象。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_2250_2254.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T31_2254_2258",
+    "text": "司马迁塑造人物呃用的是外貌描写还有借景抒情手法。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T31/videos/T31_2254_2258.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T32_1267_1270",
+    "text": "呃写人物要抓住典型事例典型事例突出人物精神。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T32/videos/T32_1267_1270.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T32_1699_1703",
+    "text": "司马迁的史记好像用了对比论证和人物传记。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T32/videos/T32_1699_1703.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T32_1703_1707",
+    "text": "嗯关于岳飞，他的忠诚是，呃。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T32/videos/T32_1703_1707.mp4",
+    "label": "学生讨论"
+  },
+  {
+    "id": "T32_1707_1711",
+    "text": "司马迁忍辱负重写史记呃还有对比论证正反两面。",
+    "video": "/datapool/home/2005900028/yzc/web/datasetweb/datasets/T32/videos/T32_1707_1711.mp4",
+    "label": "学生讨论"
+  }
+]

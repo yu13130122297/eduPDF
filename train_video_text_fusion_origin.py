@@ -92,12 +92,30 @@ class ClassBalancedLoss(nn.Module):
         return focal_loss.mean()
 
 
+def _load_yaml_config(path: str) -> dict:
+    """加载 YAML 配置文件，合并 base.yaml（如果存在）"""
+    try:
+        import yaml
+    except ImportError:
+        raise ImportError("请安装 PyYAML: pip install pyyaml")
+
+    base_path = os.path.join(os.path.dirname(path), "base.yaml")
+    cfg: dict = {}
+    if os.path.exists(base_path) and os.path.abspath(base_path) != os.path.abspath(path):
+        with open(base_path, "r", encoding="utf-8") as f:
+            cfg.update(yaml.safe_load(f) or {})
+    with open(path, "r", encoding="utf-8") as f:
+        cfg.update(yaml.safe_load(f) or {})
+    return cfg
+
+
 def get_args():
     """获取命令行参数（内存优化版本）"""
     parser = argparse.ArgumentParser(description="视频+文本多模态动态融合分类训练（内存优化）")
+    parser.add_argument("--config", type=str, default=None, help="YAML 配置文件路径（如 configs/phase1.yaml）")
     
     # 基础参数（减少内存使用）
-    parser.add_argument("--batch_sz", type=int, default=8, help="批次大小（减小以节省内存）")
+    parser.add_argument("--batch_sz", type=int, default=16, help="批次大小")
     parser.add_argument("--bert_model", type=str, default="./bert-base-chinese", help="BERT模型路径")
     parser.add_argument("--data_path", type=str, default="datasets/education/", help="数据路径")
     parser.add_argument("--dropout", type=float, default=0.1, help="Dropout率")
@@ -110,7 +128,7 @@ def get_args():
     parser.add_argument("--task", type=str, default="education", help="任务名称")
     parser.add_argument("--task_type", type=str, default="classification", help="任务类型")
     parser.add_argument("--name", type=str, default="video_text_fusion_lite", help="实验名称")
-    parser.add_argument("--n_workers", type=int, default=16, help="数据加载器工作进程数（设为0避免内存问题）")
+    parser.add_argument("--n_workers", type=int, default=4, help="数据加载器工作进程数")
     
     # 模型参数（减小模型尺寸）
     parser.add_argument("--hidden_sz", type=int, default=768, help="BERT隐藏层大小")
@@ -119,7 +137,7 @@ def get_args():
     parser.add_argument("--num_image_embeds", type=int, default=1, help="图像嵌入数量")
     
     # 视频相关参数（减少内存使用）
-    parser.add_argument("--num_frames", type=int, default=16, help="每个视频采样的帧数（减少以节省内存）")
+    parser.add_argument("--num_frames", type=int, default=8, help="每个视频采样的帧数")
     parser.add_argument("--frame_sampling_strategy", type=str, default="uniform", 
                        choices=["uniform", "random", "center"], help="帧采样策略")
     parser.add_argument("--video_hidden_sz", type=int, default=256, help="视频LSTM隐藏层大小（减小）")
@@ -160,6 +178,23 @@ def get_args():
     parser.add_argument("--mamba_fusion_hidden", type=int, default=128, help="Mamba融合隐藏层维度")
     parser.add_argument("--mamba_fusion_d_state", type=int, default=8, help="Mamba融合状态空间维度")
     
+    # 新模块开关
+    parser.add_argument("--use_trimodal", type=bool, default=False, help="启用三模态文本编码器 (FR-1)")
+    parser.add_argument("--use_mamba", type=bool, default=False, help="启用 Mamba 视频编码器 (FR-3)")
+    parser.add_argument("--use_sparse_moe", type=bool, default=False, help="启用 Sparse MoE 置信度网络 (FR-4)")
+    parser.add_argument("--use_hier_fusion", type=bool, default=False, help="启用层次化 MoE 融合 (FR-5)")
+    parser.add_argument("--use_prm", type=bool, default=False, help="启用过程奖励模型 (FR-6)")
+    parser.add_argument("--use_video_desc", type=bool, default=True, help="是否使用 video_description（默认True）")
+
+    # 先解析已知参数，获取 --config
+    args, _ = parser.parse_known_args()
+
+    # 若指定了 YAML，将 YAML 值作为命令行默认值（命令行显式传入的参数仍会覆盖）
+    if args.config:
+        yaml_cfg = _load_yaml_config(args.config)
+        parser.set_defaults(**yaml_cfg)
+        print(f"[config] 已加载 {args.config}，共 {len(yaml_cfg)} 个参数")
+
     return parser.parse_args()
 
 
@@ -631,8 +666,8 @@ def train_epoch_memory_efficient(model, train_loader, optimizer, criterion, foca
     pbar = tqdm(train_loader, desc=f"训练 Epoch {epoch}", mininterval=2.0, maxinterval=10.0)
 
     for batch_idx, batch in enumerate(pbar):
-        sentences, attention_mask, segments, video_frames, labels, sample_ids, original_ids = batch
-        
+        sentences, attention_mask, segments, video_frames, labels, sample_ids, original_ids, text_list, video_desc_list = batch
+
         # 移动到GPU
         if torch.cuda.is_available():
             sentences = sentences.cuda(non_blocking=True)
@@ -647,7 +682,8 @@ def train_epoch_memory_efficient(model, train_loader, optimizer, criterion, foca
                 # 前向传播
                 if args.use_dynamic_fusion:
                     model_output = model(
-                        sentences, attention_mask, segments, video_frames, choice='train'
+                        sentences, attention_mask, segments, video_frames, choice='train',
+                        text_list=text_list, video_desc_list=video_desc_list
                     )
 
                     # 处理不同版本的模型输出（增强版）
@@ -726,7 +762,8 @@ def train_epoch_memory_efficient(model, train_loader, optimizer, criterion, foca
             # 标准精度训练
             if args.use_dynamic_fusion:
                 model_output = model(
-                    sentences, attention_mask, segments, video_frames, choice='train'
+                    sentences, attention_mask, segments, video_frames, choice='train',
+                    text_list=text_list, video_desc_list=video_desc_list
                 )
 
                 # 处理不同版本的模型输出
@@ -789,7 +826,8 @@ def train_epoch_memory_efficient(model, train_loader, optimizer, criterion, foca
         if args.use_dynamic_fusion and batch_idx % 5 == 0:  # 每5个batch收集一次权重
             model.eval()
             with torch.no_grad():
-                test_outputs = model(sentences, attention_mask, segments, video_frames, choice='test')
+                test_outputs = model(sentences, attention_mask, segments, video_frames, choice='test',
+                                  text_list=text_list, video_desc_list=video_desc_list)
                 # 处理不同版本的输出
                 if len(test_outputs) == 7:
                     # 原始版本：全局权重
@@ -830,7 +868,7 @@ def train_epoch_memory_efficient(model, train_loader, optimizer, criterion, foca
                 if batch_idx >= 10:  # 只收集前10个batch的数据用于分析
                     break
 
-                sentences, attention_mask, segments, video_frames, labels, sample_ids, original_ids = batch
+                sentences, attention_mask, segments, video_frames, labels, sample_ids, original_ids, text_list, video_desc_list = batch
 
                 if torch.cuda.is_available():
                     sentences = sentences.cuda(non_blocking=True)
@@ -839,7 +877,8 @@ def train_epoch_memory_efficient(model, train_loader, optimizer, criterion, foca
                     video_frames = video_frames.cuda(non_blocking=True)
                     labels = labels.cuda(non_blocking=True)
 
-                test_outputs = model(sentences, attention_mask, segments, video_frames, choice='test')
+                test_outputs = model(sentences, attention_mask, segments, video_frames, choice='test',
+                                  text_list=text_list, video_desc_list=video_desc_list)
 
                 if len(test_outputs) == 8:
                     # 类别特定版本
@@ -888,8 +927,8 @@ def evaluate_memory_efficient(model, val_loader, criterion, args):
 
     with torch.no_grad():
         for batch in tqdm(val_loader, desc="验证", mininterval=2.0, maxinterval=10.0):
-            sentences, attention_mask, segments, video_frames, labels, sample_ids, original_ids = batch
-            
+            sentences, attention_mask, segments, video_frames, labels, sample_ids, original_ids, text_list, video_desc_list = batch
+
             # 移动到GPU
             if torch.cuda.is_available():
                 sentences = sentences.cuda(non_blocking=True)
@@ -900,7 +939,8 @@ def evaluate_memory_efficient(model, val_loader, criterion, args):
             
             # 前向传播
             if args.use_dynamic_fusion:
-                outputs = model(sentences, attention_mask, segments, video_frames, choice='test')
+                outputs = model(sentences, attention_mask, segments, video_frames, choice='test',
+                             text_list=text_list, video_desc_list=video_desc_list)
                 fused_logits = outputs[0]
 
                 # 收集权重信息（处理不同版本的输出）

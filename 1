@@ -1,0 +1,28 @@
+python3 -c "
+import requests
+
+API_KEY = 'sk-11f388929ba64064a99422251adcb509'
+API_URL = 'https://api.deepseek.com/v1/chat/completions'
+
+headers = {'Content-Type': 'application/json', 'Authorization': f'Bearer {API_KEY}'}
+
+prompt = '''生成一段学生小组讨论的混乱语音识别结果。这是一节数学课，多人同时说话、互相打断、抢话。
+
+要求：
+1. 多人同时说话、互相打断、抢话，像真实课堂讨论
+2. 20-25个汉字
+3. 内容多样化：可以问问题、给建议、确认答案、抱怨、闲聊等，不要全是\"不对\"、\"不是\"、\"等一下\"、\"等会\"、、\"这个\"、\"那个\"、
+4. 语句破碎、重复、口头禅、无逻辑
+5. 无标点符号
+6. 像劣质语音识别结果
+
+请直接生成转录文本。'''
+
+payload = {'model': 'deepseek-chat', 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1.2, 'max_tokens': 60}
+
+for i in range(5):
+    response = requests.post(API_URL, headers=headers, json=payload, timeout=30)
+    result = response.json()
+    text = result['choices'][0]['message']['content'].strip().replace('\n', '').replace(' ', '')[:25]
+    print(f'{i+1}: {text} ({len(text)})')
+"
