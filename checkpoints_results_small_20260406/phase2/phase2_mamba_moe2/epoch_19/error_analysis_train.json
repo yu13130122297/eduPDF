@@ -1,0 +1,1858 @@
+[
+  {
+    "sample_id": "T02_0298_0302",
+    "internal_id": 1319,
+    "true_label": "课堂沉寂",
+    "pred_label": "教师巡视",
+    "true_idx": 9,
+    "pred_idx": 3
+  },
+  {
+    "sample_id": "T10_0424_0429",
+    "internal_id": 2712,
+    "true_label": "课堂沉寂",
+    "pred_label": "学生讨论",
+    "true_idx": 9,
+    "pred_idx": 8
+  },
+  {
+    "sample_id": "T21_1682_1685",
+    "internal_id": 3099,
+    "true_label": "教师巡视",
+    "pred_label": "教师板书",
+    "true_idx": 3,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T30_0156_0162",
+    "internal_id": 2988,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T09_0324_0328",
+    "internal_id": 454,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T21_0464_0469",
+    "internal_id": 3916,
+    "true_label": "教师巡视",
+    "pred_label": "教师板书",
+    "true_idx": 3,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T30_2257_2263",
+    "internal_id": 2475,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T08_0428_0432",
+    "internal_id": 2102,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T30_2268_2272",
+    "internal_id": 2140,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T02_1179_1183",
+    "internal_id": 4232,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T09_1245_1248",
+    "internal_id": 2862,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T21_2271_2274",
+    "internal_id": 4295,
+    "true_label": "教师板书",
+    "pred_label": "教师提问",
+    "true_idx": 5,
+    "pred_idx": 0
+  },
+  {
+    "sample_id": "T02_2299_2302",
+    "internal_id": 2946,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T21_0620_0624",
+    "internal_id": 313,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T15_0417_0420",
+    "internal_id": 174,
+    "true_label": "课堂沉寂",
+    "pred_label": "教师巡视",
+    "true_idx": 9,
+    "pred_idx": 3
+  },
+  {
+    "sample_id": "T14_2091_2095",
+    "internal_id": 1565,
+    "true_label": "教师反馈",
+    "pred_label": "学生发言",
+    "true_idx": 6,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T30_2246_2252",
+    "internal_id": 153,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T16_1157_1162",
+    "internal_id": 2679,
+    "true_label": "教师巡视",
+    "pred_label": "学生发言",
+    "true_idx": 3,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T32_0258_0261",
+    "internal_id": 1416,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T18_0185_0189",
+    "internal_id": 3927,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T30_2217_2222",
+    "internal_id": 1870,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T30_2337_2341",
+    "internal_id": 2974,
+    "true_label": "技术操作",
+    "pred_label": "教师板书",
+    "true_idx": 7,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T09_1239_1242",
+    "internal_id": 318,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T17_0616_0619",
+    "internal_id": 1205,
+    "true_label": "技术操作",
+    "pred_label": "教师板书",
+    "true_idx": 7,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T33_0188_0194",
+    "internal_id": 2894,
+    "true_label": "教师提问",
+    "pred_label": "学生发言",
+    "true_idx": 0,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T16_1739_1744",
+    "internal_id": 3609,
+    "true_label": "教师讲授",
+    "pred_label": "课堂沉寂",
+    "true_idx": 2,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T18_0528_0532",
+    "internal_id": 1640,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T21_1671_1675",
+    "internal_id": 996,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T18_2073_2076",
+    "internal_id": 2318,
+    "true_label": "教师讲授",
+    "pred_label": "教师板书",
+    "true_idx": 2,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T04_0599_0604",
+    "internal_id": 1203,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T01_0315_0320",
+    "internal_id": 4140,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T18_1433_1437",
+    "internal_id": 2412,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T05_1030_1033",
+    "internal_id": 47,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T01_0350_0354",
+    "internal_id": 2855,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T17_1328_1333",
+    "internal_id": 3618,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T14_0274_0277",
+    "internal_id": 1223,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T03_2159_2162",
+    "internal_id": 2169,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_1417_1421",
+    "internal_id": 4150,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T20_1866_1869",
+    "internal_id": 1899,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T01_1801_1805",
+    "internal_id": 1092,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T32_1828_1831",
+    "internal_id": 1130,
+    "true_label": "教师巡视",
+    "pred_label": "教师板书",
+    "true_idx": 3,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T32_1994_1997",
+    "internal_id": 4244,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T17_0533_0536",
+    "internal_id": 1164,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T04_1136_1140",
+    "internal_id": 2309,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T14_1295_1298",
+    "internal_id": 1867,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T08_0598_0603",
+    "internal_id": 2655,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T20_1633_1636",
+    "internal_id": 2399,
+    "true_label": "教师巡视",
+    "pred_label": "教师板书",
+    "true_idx": 3,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T21_0316_0320",
+    "internal_id": 2651,
+    "true_label": "教师巡视",
+    "pred_label": "教师板书",
+    "true_idx": 3,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T12_0128_0134",
+    "internal_id": 159,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T32_1981_1985",
+    "internal_id": 1905,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T32_1539_1543",
+    "internal_id": 1366,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T04_0193_0198",
+    "internal_id": 2104,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T03_1489_1494",
+    "internal_id": 1842,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T19_1550_1554",
+    "internal_id": 24,
+    "true_label": "学生发言",
+    "pred_label": "教师讲授",
+    "true_idx": 1,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T19_1526_1528",
+    "internal_id": 3094,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T19_1787_1790",
+    "internal_id": 2340,
+    "true_label": "教师指令",
+    "pred_label": "学生发言",
+    "true_idx": 4,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T13_0749_0753",
+    "internal_id": 1344,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T32_0576_0579",
+    "internal_id": 1906,
+    "true_label": "教师反馈",
+    "pred_label": "学生发言",
+    "true_idx": 6,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T17_1713_1717",
+    "internal_id": 2589,
+    "true_label": "教师讲授",
+    "pred_label": "教师指令",
+    "true_idx": 2,
+    "pred_idx": 4
+  },
+  {
+    "sample_id": "T15_0382_0386",
+    "internal_id": 3332,
+    "true_label": "教师反馈",
+    "pred_label": "教师讲授",
+    "true_idx": 6,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T01_1012_1017",
+    "internal_id": 3684,
+    "true_label": "教师反馈",
+    "pred_label": "教师讲授",
+    "true_idx": 6,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T17_0217_0221",
+    "internal_id": 2994,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T10_1144_1147",
+    "internal_id": 1159,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T05_0015_0018",
+    "internal_id": 4346,
+    "true_label": "技术操作",
+    "pred_label": "课堂沉寂",
+    "true_idx": 7,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T17_1599_1605",
+    "internal_id": 3180,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T16_1362_1366",
+    "internal_id": 307,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T21_0490_0495",
+    "internal_id": 2264,
+    "true_label": "教师巡视",
+    "pred_label": "教师讲授",
+    "true_idx": 3,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T11_1097_1103",
+    "internal_id": 1232,
+    "true_label": "教师指令",
+    "pred_label": "学生发言",
+    "true_idx": 4,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T31_1317_1323",
+    "internal_id": 1354,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T19_2445_2449",
+    "internal_id": 1892,
+    "true_label": "教师反馈",
+    "pred_label": "学生发言",
+    "true_idx": 6,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T02_1099_1103",
+    "internal_id": 2195,
+    "true_label": "课堂沉寂",
+    "pred_label": "教师讲授",
+    "true_idx": 9,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T31_2100_2104",
+    "internal_id": 4177,
+    "true_label": "教师讲授",
+    "pred_label": "学生讨论",
+    "true_idx": 2,
+    "pred_idx": 8
+  },
+  {
+    "sample_id": "T18_2466_2469",
+    "internal_id": 3869,
+    "true_label": "教师指令",
+    "pred_label": "学生发言",
+    "true_idx": 4,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T21_1936_1940",
+    "internal_id": 2652,
+    "true_label": "技术操作",
+    "pred_label": "教师板书",
+    "true_idx": 7,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T12_1477_1481",
+    "internal_id": 3785,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T10_1899_1902",
+    "internal_id": 4047,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T17_0424_0427",
+    "internal_id": 2769,
+    "true_label": "教师讲授",
+    "pred_label": "课堂沉寂",
+    "true_idx": 2,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T01_0341_0345",
+    "internal_id": 3162,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T11_2077_2081",
+    "internal_id": 2008,
+    "true_label": "教师讲授",
+    "pred_label": "课堂沉寂",
+    "true_idx": 2,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T31_0786_0791",
+    "internal_id": 1019,
+    "true_label": "教师板书",
+    "pred_label": "技术操作",
+    "true_idx": 5,
+    "pred_idx": 7
+  },
+  {
+    "sample_id": "T31_0852_0855",
+    "internal_id": 2701,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T20_0205_0208",
+    "internal_id": 35,
+    "true_label": "教师讲授",
+    "pred_label": "技术操作",
+    "true_idx": 2,
+    "pred_idx": 7
+  },
+  {
+    "sample_id": "T18_1968_1971",
+    "internal_id": 3174,
+    "true_label": "教师讲授",
+    "pred_label": "课堂沉寂",
+    "true_idx": 2,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T16_1873_1877",
+    "internal_id": 2215,
+    "true_label": "教师讲授",
+    "pred_label": "课堂沉寂",
+    "true_idx": 2,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T30_0008_0012",
+    "internal_id": 3579,
+    "true_label": "教师讲授",
+    "pred_label": "技术操作",
+    "true_idx": 2,
+    "pred_idx": 7
+  },
+  {
+    "sample_id": "T17_1287_1291",
+    "internal_id": 2708,
+    "true_label": "教师讲授",
+    "pred_label": "课堂沉寂",
+    "true_idx": 2,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T30_0150_0153",
+    "internal_id": 3776,
+    "true_label": "教师讲授",
+    "pred_label": "课堂沉寂",
+    "true_idx": 2,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T10_0213_0216",
+    "internal_id": 3775,
+    "true_label": "教师讲授",
+    "pred_label": "课堂沉寂",
+    "true_idx": 2,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T04_0921_0926",
+    "internal_id": 2830,
+    "true_label": "教师讲授",
+    "pred_label": "课堂沉寂",
+    "true_idx": 2,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_1674_1679",
+    "internal_id": 635,
+    "true_label": "课堂沉寂",
+    "pred_label": "学生讨论",
+    "true_idx": 9,
+    "pred_idx": 8
+  },
+  {
+    "sample_id": "T32_0492_0498",
+    "internal_id": 2056,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T07_0816_0819",
+    "internal_id": 1838,
+    "true_label": "教师提问",
+    "pred_label": "教师讲授",
+    "true_idx": 0,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T12_0232_0235",
+    "internal_id": 2278,
+    "true_label": "教师板书",
+    "pred_label": "课堂沉寂",
+    "true_idx": 5,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T19_1752_1757",
+    "internal_id": 932,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T20_2284_2289",
+    "internal_id": 607,
+    "true_label": "技术操作",
+    "pred_label": "教师讲授",
+    "true_idx": 7,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T21_1931_1936",
+    "internal_id": 2253,
+    "true_label": "技术操作",
+    "pred_label": "学生发言",
+    "true_idx": 7,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T04_0820_0826",
+    "internal_id": 311,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T33_0685_0688",
+    "internal_id": 3835,
+    "true_label": "教师反馈",
+    "pred_label": "学生发言",
+    "true_idx": 6,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T05_0012_0015",
+    "internal_id": 3743,
+    "true_label": "技术操作",
+    "pred_label": "教师讲授",
+    "true_idx": 7,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T13_1888_1892",
+    "internal_id": 468,
+    "true_label": "课堂沉寂",
+    "pred_label": "学生讨论",
+    "true_idx": 9,
+    "pred_idx": 8
+  },
+  {
+    "sample_id": "T21_1707_1710",
+    "internal_id": 3956,
+    "true_label": "教师巡视",
+    "pred_label": "教师讲授",
+    "true_idx": 3,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T16_0486_0491",
+    "internal_id": 979,
+    "true_label": "教师板书",
+    "pred_label": "教师讲授",
+    "true_idx": 5,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T14_2382_2386",
+    "internal_id": 1173,
+    "true_label": "教师板书",
+    "pred_label": "教师讲授",
+    "true_idx": 5,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T05_1724_1729",
+    "internal_id": 1241,
+    "true_label": "教师板书",
+    "pred_label": "教师讲授",
+    "true_idx": 5,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T01_1411_1415",
+    "internal_id": 1512,
+    "true_label": "教师板书",
+    "pred_label": "教师讲授",
+    "true_idx": 5,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T18_1724_1728",
+    "internal_id": 354,
+    "true_label": "学生发言",
+    "pred_label": "教师讲授",
+    "true_idx": 1,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T08_0139_0143",
+    "internal_id": 4408,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T04_1358_1362",
+    "internal_id": 237,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T18_0895_0899",
+    "internal_id": 577,
+    "true_label": "教师板书",
+    "pred_label": "课堂沉寂",
+    "true_idx": 5,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T07_1609_1612",
+    "internal_id": 4052,
+    "true_label": "教师巡视",
+    "pred_label": "学生讨论",
+    "true_idx": 3,
+    "pred_idx": 8
+  },
+  {
+    "sample_id": "T01_0051_0056",
+    "internal_id": 1572,
+    "true_label": "教师板书",
+    "pred_label": "课堂沉寂",
+    "true_idx": 5,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_1325_1328",
+    "internal_id": 908,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T14_2227_2231",
+    "internal_id": 4003,
+    "true_label": "教师板书",
+    "pred_label": "课堂沉寂",
+    "true_idx": 5,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T05_2085_2089",
+    "internal_id": 1591,
+    "true_label": "教师板书",
+    "pred_label": "课堂沉寂",
+    "true_idx": 5,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T32_0764_0767",
+    "internal_id": 961,
+    "true_label": "教师指令",
+    "pred_label": "学生发言",
+    "true_idx": 4,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T30_0520_0524",
+    "internal_id": 147,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T01_0811_0816",
+    "internal_id": 1991,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T11_2084_2087",
+    "internal_id": 2635,
+    "true_label": "教师讲授",
+    "pred_label": "教师指令",
+    "true_idx": 2,
+    "pred_idx": 4
+  },
+  {
+    "sample_id": "T20_1869_1872",
+    "internal_id": 4081,
+    "true_label": "教师巡视",
+    "pred_label": "教师板书",
+    "true_idx": 3,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T01_0345_0349",
+    "internal_id": 1943,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T20_0108_0111",
+    "internal_id": 1518,
+    "true_label": "技术操作",
+    "pred_label": "教师讲授",
+    "true_idx": 7,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T21_2634_2640",
+    "internal_id": 3738,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T30_2189_2193",
+    "internal_id": 2730,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T16_1088_1093",
+    "internal_id": 108,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T32_0661_0665",
+    "internal_id": 1022,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T19_0685_0691",
+    "internal_id": 2329,
+    "true_label": "教师板书",
+    "pred_label": "课堂沉寂",
+    "true_idx": 5,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T18_0035_0039",
+    "internal_id": 3087,
+    "true_label": "技术操作",
+    "pred_label": "教师讲授",
+    "true_idx": 7,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T16_1863_1867",
+    "internal_id": 3176,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T04_1029_1033",
+    "internal_id": 1220,
+    "true_label": "学生发言",
+    "pred_label": "课堂沉寂",
+    "true_idx": 1,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T10_1270_1273",
+    "internal_id": 2307,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T06_1880_1884",
+    "internal_id": 1519,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T30_1466_1469",
+    "internal_id": 1628,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T19_1724_1727",
+    "internal_id": 2089,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T32_0252_0255",
+    "internal_id": 3356,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T11_1132_1138",
+    "internal_id": 2125,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T18_0867_0871",
+    "internal_id": 2233,
+    "true_label": "教师讲授",
+    "pred_label": "技术操作",
+    "true_idx": 2,
+    "pred_idx": 7
+  },
+  {
+    "sample_id": "T11_1842_1846",
+    "internal_id": 2832,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T16_2437_2442",
+    "internal_id": 1367,
+    "true_label": "教师讲授",
+    "pred_label": "技术操作",
+    "true_idx": 2,
+    "pred_idx": 7
+  },
+  {
+    "sample_id": "T20_2220_2226",
+    "internal_id": 1145,
+    "true_label": "教师讲授",
+    "pred_label": "技术操作",
+    "true_idx": 2,
+    "pred_idx": 7
+  },
+  {
+    "sample_id": "T32_0065_0068",
+    "internal_id": 208,
+    "true_label": "教师讲授",
+    "pred_label": "学生发言",
+    "true_idx": 2,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T10_0368_0372",
+    "internal_id": 3375,
+    "true_label": "课堂沉寂",
+    "pred_label": "学生讨论",
+    "true_idx": 9,
+    "pred_idx": 8
+  },
+  {
+    "sample_id": "T30_0877_0883",
+    "internal_id": 3991,
+    "true_label": "教师提问",
+    "pred_label": "教师讲授",
+    "true_idx": 0,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T32_1089_1092",
+    "internal_id": 4183,
+    "true_label": "教师反馈",
+    "pred_label": "学生发言",
+    "true_idx": 6,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T04_1116_1119",
+    "internal_id": 1461,
+    "true_label": "教师巡视",
+    "pred_label": "技术操作",
+    "true_idx": 3,
+    "pred_idx": 7
+  },
+  {
+    "sample_id": "T10_1266_1270",
+    "internal_id": 3654,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T05_1221_1225",
+    "internal_id": 218,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_0813_0817",
+    "internal_id": 4009,
+    "true_label": "课堂沉寂",
+    "pred_label": "学生讨论",
+    "true_idx": 9,
+    "pred_idx": 8
+  },
+  {
+    "sample_id": "T16_0688_0693",
+    "internal_id": 1944,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T20_1667_1671",
+    "internal_id": 960,
+    "true_label": "教师讲授",
+    "pred_label": "教师指令",
+    "true_idx": 2,
+    "pred_idx": 4
+  },
+  {
+    "sample_id": "T04_0826_0831",
+    "internal_id": 728,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T08_2362_2366",
+    "internal_id": 1025,
+    "true_label": "教师提问",
+    "pred_label": "教师讲授",
+    "true_idx": 0,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T17_0917_0922",
+    "internal_id": 1994,
+    "true_label": "技术操作",
+    "pred_label": "教师板书",
+    "true_idx": 7,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T16_0326_0332",
+    "internal_id": 790,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T19_2418_2424",
+    "internal_id": 167,
+    "true_label": "教师反馈",
+    "pred_label": "学生发言",
+    "true_idx": 6,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T32_0160_0163",
+    "internal_id": 3156,
+    "true_label": "教师讲授",
+    "pred_label": "教师巡视",
+    "true_idx": 2,
+    "pred_idx": 3
+  },
+  {
+    "sample_id": "T01_1461_1466",
+    "internal_id": 987,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T12_1428_1432",
+    "internal_id": 4115,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T31_0816_0819",
+    "internal_id": 3184,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T09_1262_1266",
+    "internal_id": 743,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_0916_0920",
+    "internal_id": 559,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_0903_0907",
+    "internal_id": 4079,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T09_0311_0315",
+    "internal_id": 2330,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_0941_0947",
+    "internal_id": 1495,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T19_1657_1661",
+    "internal_id": 3827,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T21_1355_1360",
+    "internal_id": 2343,
+    "true_label": "技术操作",
+    "pred_label": "教师讲授",
+    "true_idx": 7,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T02_0466_0471",
+    "internal_id": 2976,
+    "true_label": "教师巡视",
+    "pred_label": "教师讲授",
+    "true_idx": 3,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T04_0156_0160",
+    "internal_id": 825,
+    "true_label": "教师提问",
+    "pred_label": "教师指令",
+    "true_idx": 0,
+    "pred_idx": 4
+  },
+  {
+    "sample_id": "T30_0179_0182",
+    "internal_id": 155,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T21_1615_1618",
+    "internal_id": 2998,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T16_0227_0230",
+    "internal_id": 1530,
+    "true_label": "学生讨论",
+    "pred_label": "教师提问",
+    "true_idx": 8,
+    "pred_idx": 0
+  },
+  {
+    "sample_id": "T12_1688_1692",
+    "internal_id": 2850,
+    "true_label": "课堂沉寂",
+    "pred_label": "学生讨论",
+    "true_idx": 9,
+    "pred_idx": 8
+  },
+  {
+    "sample_id": "T04_0739_0743",
+    "internal_id": 3817,
+    "true_label": "教师讲授",
+    "pred_label": "教师反馈",
+    "true_idx": 2,
+    "pred_idx": 6
+  },
+  {
+    "sample_id": "T15_0424_0427",
+    "internal_id": 1744,
+    "true_label": "课堂沉寂",
+    "pred_label": "学生发言",
+    "true_idx": 9,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T07_0940_0945",
+    "internal_id": 363,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T04_1021_1025",
+    "internal_id": 1336,
+    "true_label": "学生发言",
+    "pred_label": "课堂沉寂",
+    "true_idx": 1,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T01_2301_2306",
+    "internal_id": 1301,
+    "true_label": "学生发言",
+    "pred_label": "课堂沉寂",
+    "true_idx": 1,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T17_1861_1866",
+    "internal_id": 3294,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T33_1802_1806",
+    "internal_id": 2060,
+    "true_label": "学生发言",
+    "pred_label": "课堂沉寂",
+    "true_idx": 1,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T15_0575_0578",
+    "internal_id": 1175,
+    "true_label": "学生发言",
+    "pred_label": "课堂沉寂",
+    "true_idx": 1,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T32_0997_1002",
+    "internal_id": 2602,
+    "true_label": "教师巡视",
+    "pred_label": "教师提问",
+    "true_idx": 3,
+    "pred_idx": 0
+  },
+  {
+    "sample_id": "T15_2173_2177",
+    "internal_id": 3938,
+    "true_label": "学生发言",
+    "pred_label": "课堂沉寂",
+    "true_idx": 1,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T30_1240_1244",
+    "internal_id": 2901,
+    "true_label": "学生发言",
+    "pred_label": "课堂沉寂",
+    "true_idx": 1,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T09_1211_1216",
+    "internal_id": 2486,
+    "true_label": "教师巡视",
+    "pred_label": "教师板书",
+    "true_idx": 3,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T14_2398_2401",
+    "internal_id": 1415,
+    "true_label": "学生发言",
+    "pred_label": "课堂沉寂",
+    "true_idx": 1,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_0929_0935",
+    "internal_id": 3726,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_1410_1413",
+    "internal_id": 1868,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T30_2380_2386",
+    "internal_id": 500,
+    "true_label": "学生发言",
+    "pred_label": "课堂沉寂",
+    "true_idx": 1,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_0935_0941",
+    "internal_id": 4163,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T08_1093_1098",
+    "internal_id": 1113,
+    "true_label": "教师提问",
+    "pred_label": "课堂沉寂",
+    "true_idx": 0,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T09_0286_0289",
+    "internal_id": 4300,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T33_0263_0268",
+    "internal_id": 2618,
+    "true_label": "教师指令",
+    "pred_label": "课堂沉寂",
+    "true_idx": 4,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T02_1474_1477",
+    "internal_id": 3611,
+    "true_label": "教师讲授",
+    "pred_label": "课堂沉寂",
+    "true_idx": 2,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_1387_1392",
+    "internal_id": 3541,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_0957_0961",
+    "internal_id": 814,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T30_0325_0330",
+    "internal_id": 2840,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T10_1921_1924",
+    "internal_id": 3147,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T09_0511_0516",
+    "internal_id": 2560,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T30_2291_2294",
+    "internal_id": 1239,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T04_1980_1986",
+    "internal_id": 827,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T10_0053_0057",
+    "internal_id": 2107,
+    "true_label": "教师讲授",
+    "pred_label": "教师指令",
+    "true_idx": 2,
+    "pred_idx": 4
+  },
+  {
+    "sample_id": "T31_1220_1225",
+    "internal_id": 3875,
+    "true_label": "教师反馈",
+    "pred_label": "教师讲授",
+    "true_idx": 6,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T05_1003_1009",
+    "internal_id": 2975,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T17_2119_2121",
+    "internal_id": 4281,
+    "true_label": "课堂沉寂",
+    "pred_label": "学生讨论",
+    "true_idx": 9,
+    "pred_idx": 8
+  },
+  {
+    "sample_id": "T04_2306_2310",
+    "internal_id": 2468,
+    "true_label": "技术操作",
+    "pred_label": "教师讲授",
+    "true_idx": 7,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T20_0783_0788",
+    "internal_id": 1510,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T19_0797_0803",
+    "internal_id": 3287,
+    "true_label": "技术操作",
+    "pred_label": "教师板书",
+    "true_idx": 7,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T09_0789_0793",
+    "internal_id": 2081,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T21_0420_0424",
+    "internal_id": 1761,
+    "true_label": "教师反馈",
+    "pred_label": "教师讲授",
+    "true_idx": 6,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T14_0016_0019",
+    "internal_id": 2138,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T30_2318_2322",
+    "internal_id": 1231,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T30_1666_1671",
+    "internal_id": 4093,
+    "true_label": "学生发言",
+    "pred_label": "课堂沉寂",
+    "true_idx": 1,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T18_1491_1495",
+    "internal_id": 1826,
+    "true_label": "教师巡视",
+    "pred_label": "教师板书",
+    "true_idx": 3,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T31_0492_0495",
+    "internal_id": 7,
+    "true_label": "教师讲授",
+    "pred_label": "教师指令",
+    "true_idx": 2,
+    "pred_idx": 4
+  },
+  {
+    "sample_id": "T14_1282_1285",
+    "internal_id": 913,
+    "true_label": "教师板书",
+    "pred_label": "教师巡视",
+    "true_idx": 5,
+    "pred_idx": 3
+  },
+  {
+    "sample_id": "T10_1608_1612",
+    "internal_id": 2090,
+    "true_label": "教师反馈",
+    "pred_label": "学生发言",
+    "true_idx": 6,
+    "pred_idx": 1
+  },
+  {
+    "sample_id": "T02_2312_2316",
+    "internal_id": 93,
+    "true_label": "教师讲授",
+    "pred_label": "教师指令",
+    "true_idx": 2,
+    "pred_idx": 4
+  },
+  {
+    "sample_id": "T17_0777_0781",
+    "internal_id": 3313,
+    "true_label": "教师讲授",
+    "pred_label": "教师指令",
+    "true_idx": 2,
+    "pred_idx": 4
+  },
+  {
+    "sample_id": "T30_1887_1891",
+    "internal_id": 862,
+    "true_label": "教师反馈",
+    "pred_label": "教师讲授",
+    "true_idx": 6,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T03_1515_1519",
+    "internal_id": 1425,
+    "true_label": "教师指令",
+    "pred_label": "教师巡视",
+    "true_idx": 4,
+    "pred_idx": 3
+  },
+  {
+    "sample_id": "T10_1502_1506",
+    "internal_id": 856,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T04_1074_1077",
+    "internal_id": 2432,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_0294_0297",
+    "internal_id": 1253,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T12_0961_0966",
+    "internal_id": 1079,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T10_1483_1488",
+    "internal_id": 1479,
+    "true_label": "教师巡视",
+    "pred_label": "学生讨论",
+    "true_idx": 3,
+    "pred_idx": 8
+  },
+  {
+    "sample_id": "T15_1980_1983",
+    "internal_id": 3216,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T03_1110_1115",
+    "internal_id": 993,
+    "true_label": "教师指令",
+    "pred_label": "教师讲授",
+    "true_idx": 4,
+    "pred_idx": 2
+  },
+  {
+    "sample_id": "T17_0842_0848",
+    "internal_id": 3873,
+    "true_label": "教师板书",
+    "pred_label": "技术操作",
+    "true_idx": 5,
+    "pred_idx": 7
+  },
+  {
+    "sample_id": "T10_1917_1921",
+    "internal_id": 4120,
+    "true_label": "学生讨论",
+    "pred_label": "课堂沉寂",
+    "true_idx": 8,
+    "pred_idx": 9
+  },
+  {
+    "sample_id": "T01_0164_0168",
+    "internal_id": 1016,
+    "true_label": "技术操作",
+    "pred_label": "教师板书",
+    "true_idx": 7,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T06_1905_1910",
+    "internal_id": 934,
+    "true_label": "教师巡视",
+    "pred_label": "教师板书",
+    "true_idx": 3,
+    "pred_idx": 5
+  },
+  {
+    "sample_id": "T32_1968_1972",
+    "internal_id": 980,
+    "true_label": "教师巡视",
+    "pred_label": "教师指令",
+    "true_idx": 3,
+    "pred_idx": 4
+  },
+  {
+    "sample_id": "T32_1299_1303",
+    "internal_id": 2579,
+    "true_label": "教师巡视",
+    "pred_label": "课堂沉寂",
+    "true_idx": 3,
+    "pred_idx": 9
+  }
+]

@@ -1,0 +1,11 @@
+Label Mapping:
+Class_0: 教师提问
+Class_1: 学生发言
+Class_2: 教师讲授
+Class_3: 教师巡视
+Class_4: 教师指令
+Class_5: 教师板书
+Class_6: 教师反馈
+Class_7: 技术操作
+Class_8: 学生讨论
+Class_9: 课堂沉寂
